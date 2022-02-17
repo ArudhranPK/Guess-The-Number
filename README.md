@@ -1,7 +1,7 @@
 # Guess-The-Number
 The computer will generate a four digit number and we have to find the number within sic chances given to the user.
 
-I user randon module to generate a four digit number.
+I used randon module to generate a four digit number.
 
 Strike means one of the four digit numbers from the user is correct and in right position.
 
