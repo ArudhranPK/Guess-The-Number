@@ -15,7 +15,6 @@ while strike == 4:
         b = (computer_number % 1000 - d - (c * 10)) // 100
         a = (computer_number % 10000 - d - (c * 10) - (b * 100)) // 1000
     
-    print(a, b, c, d)
     chance = 1
 
     player_input = int(input(f'Enter the number. (Chance No.{chance}):'))
